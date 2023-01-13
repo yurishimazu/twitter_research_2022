@@ -1,0 +1,9 @@
+RT,リツイート
+ツイッター,Twitter
+お誕生日,誕生日
+子供,子ども
+:baby_bottle:,＜哺乳瓶＞
+:pile_of_poo:,＜うんち＞
+:pie:,＜パイ＞
+:NEW:,NEW
+:NEW_button:,NEW
